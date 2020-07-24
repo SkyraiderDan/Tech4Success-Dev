@@ -3133,7 +3133,7 @@ textarea {
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
   font-family: "Montserrat", "Helvetica", Arial, sans-serif;
-  font-weight: 300;
+  font-weight: 400;
 }
 
 h1,
@@ -3260,7 +3260,7 @@ h3 .small {
 }
 
 .description {
-  color: #9A9A9A;
+  color: #000000;
 }
 
 blockquote small {

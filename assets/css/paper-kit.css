@@ -3214,7 +3214,7 @@ h6 .small,
 .h4 .small,
 .h5 .small,
 .h6 .small {
-  color: #9A9A9A;
+  color: #000000;
   line-height: 1.5em;
 }
 
@@ -3251,7 +3251,7 @@ h3 .small {
 .footer-big h4 a,
 .media .media-heading,
 .media .media-heading a {
-  color: #333333;
+  color: #ffffff;
   text-decoration: none;
 }
 
@@ -3260,7 +3260,7 @@ h3 .small {
 }
 
 .description {
-  color: #000000;
+  color: #ffffff;
 }
 
 blockquote small {
@@ -3361,7 +3361,7 @@ blockquote small {
 
 /*     General overwrite     */
 body {
-  color: #66615b;
+  color: #000000;
   font-size: 14px;
   font-weight: 300;
   font-family: 'Montserrat', "Helvetica", Arial, sans-serif;
@@ -4115,9 +4115,9 @@ fieldset[disabled] .btn-warning.active {
 }
 
 .btn-danger {
-  background-color: #f5593d;
-  border-color: #f5593d;
-  color: #FFFFFF;
+  background-color: #b23850;
+  border-color: #b23850;
+  color: #b23850;
   opacity: 1;
   filter: alpha(opacity=100);
 }
@@ -4134,9 +4134,9 @@ fieldset[disabled] .btn-warning.active {
 .btn-danger:not(:disabled):not(.disabled).active,
 .btn-danger:not(:disabled):not(.disabled).active:focus,
 .show>.btn-danger.dropdown-toggle {
-  background-color: #f33816;
+  background-color: #b23850;
   color: #FFFFFF;
-  border-color: #f33816;
+  border-color: #b23850;
   box-shadow: none;
 }
 
@@ -8802,7 +8802,7 @@ textarea.form-control {
 }
 
 .icon-danger {
-  color: #f5593d;
+  color: #b23850;
 }
 
 .icon-neutral {
@@ -13637,7 +13637,7 @@ body {
 }
 
 .section-dark-blue {
-  background-color: #506367;
+  background-color: #3b8beb;
   color: #FFFFFF;
 }
 
@@ -13811,7 +13811,7 @@ body {
 }
 
 .section-dark-blue {
-  background-color: #506367;
+  background-color: #3b8beb;
   color: #FFFFFF;
 }
 
@@ -14177,7 +14177,7 @@ body {
 }
 
 .section .page-header .filter:after {
-  background-color: rgba(0, 0, 0, 0.5);
+  background-color: #e7e3d4;
   content: "";
   display: block;
   height: 100%;
@@ -15040,7 +15040,7 @@ body {
     margin-bottom: 15px;
     overflow-x: scroll;
     overflow-y: hidden;
-    border: 1px solid #dddddd;
+    border: 1px solid #ffffff;
     -ms-overflow-style: -ms-autohiding-scrollbar;
     -webkit-overflow-scrolling: touch;
   }

@@ -3283,7 +3283,7 @@ blockquote small {
 
 .text-success,
 .text-success:hover {
-  color: #6bd098 !important;
+  color: #0d9445 !important;
 }
 
 .text-warning,
@@ -3454,7 +3454,7 @@ input[type="file"]>input[type="button"]::-moz-focus-inner {
 }
 
 .iframe-container iframe {
-  box-shadow: 0 16px 38px -12px rgba(0, 0, 0, 0.56), 0 4px 25px 0 rgba(0, 0, 0, 0.12), 0 8px 10px -5px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 300px 300px -12px rgba(0, 0, 0, 0.56), 0 4px 25px 0 rgba(0, 0, 0, 0.12), 0 8px 10px -5px rgba(0, 0, 0, 0.2);
 }
 
 /*       CT colors          */
@@ -14060,6 +14060,7 @@ body {
 }
 
 .iframe-container iframe {
+  height: 100%;
   width: 100%;
 }
 
